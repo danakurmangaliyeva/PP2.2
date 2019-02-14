@@ -1,0 +1,11 @@
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\bin\Debug\netcoreapp2.1\task3.deps.json
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\bin\Debug\netcoreapp2.1\task3.runtimeconfig.json
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\bin\Debug\netcoreapp2.1\task3.runtimeconfig.dev.json
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\bin\Debug\netcoreapp2.1\task3.dll
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\bin\Debug\netcoreapp2.1\task3.pdb
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.csprojAssemblyReference.cache
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.csproj.CoreCompileInputs.cache
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.AssemblyInfoInputs.cache
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.AssemblyInfo.cs
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.dll
+C:\Users\Мартышка\Desktop\pp2\week1\task3\task3\obj\Debug\netcoreapp2.1\task3.pdb
