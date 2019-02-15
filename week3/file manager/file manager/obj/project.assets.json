@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week2\\task4\\task4\\task4.csproj",
-      "projectName": "task4",
-      "projectPath": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week2\\task4\\task4\\task4.csproj",
+      "projectUniqueName": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week3\\file manager\\file manager\\file manager.csproj",
+      "projectName": "file manager",
+      "projectPath": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week3\\file manager\\file manager\\file manager.csproj",
       "packagesPath": "C:\\Users\\Мартышка\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week2\\task4\\task4\\obj\\",
+      "outputPath": "C:\\Users\\Мартышка\\Desktop\\pp2.2\\week3\\file manager\\file manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
